@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <element>
+    <id>1</id>
+    <title>Facebook</title>
+    <url>http://facebook.com</url>
+  </element>
+  <element>
+    <id>2</id>
+    <title>Google</title>
+    <url>http://google.com</url>
+  </element>
+  <element>
+    <id>3</id>
+    <title>Amazaon</title>
+    <url>http://amazon.com</url>
+  </element>
+  <element>
+    <id>4</id>
+    <title>Instagram</title>
+    <url>http://instagram.com</url>
+  </element>
+  <element>
+    <id>5</id>
+    <title>GitHub</title>
+    <url>http://github.com</url>
+  </element>
+  <element>
+    <id>6</id>
+    <title>888casino</title>
+    <url>http://888casino.com</url>
+  </element>
+  <element>
+    <id>7</id>
+    <title>888poker</title>
+    <url>http://888poker.com</url>
+  </element>
+</root>
